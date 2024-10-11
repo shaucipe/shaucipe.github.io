@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://shaucipe.github.io/sitemap.html.gz
+Sitemap: https://shaucipe.github.io/app/sitemap.html.gz
+Sitemap: https://shaucipe.github.io/assets/sitemap.html.gz
+Sitemap: https://shaucipe.github.io/css/sitemap.html.gz
+Sitemap: https://shaucipe.github.io/includes/sitemap.html.gz
+Sitemap: https://shaucipe.github.io/item/sitemap.html.gz
+Sitemap: https://shaucipe.github.io/src/sitemap.html.gz
